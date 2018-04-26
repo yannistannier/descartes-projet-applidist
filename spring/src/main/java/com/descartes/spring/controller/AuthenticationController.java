@@ -23,7 +23,7 @@ public class AuthenticationController {
         this.repository = repository;
     }
 
-    @RequestMapping(value="/token", method = RequestMethod.POST)
+    @RequestMapping(value="/user/search/", method = RequestMethod.POST)
     public ResponseEntity verifToken(@Valid @RequestBody Token tok) {
 
 
