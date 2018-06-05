@@ -25,4 +25,4 @@ Android and IPhone.
 <img src="https://github.com/mbenhamd/descartes-projet-applidist/blob/master/app-screenshot.png?raw=true">
 </p>
 
-###### Report is [here] (https://github.com/mbenhamd/descartes-projet-applidist/blob/master/docs/Rapport_final.pdf)
+###### Report is [here](https://github.com/mbenhamd/descartes-projet-applidist/blob/master/docs/Rapport_final.pdf)
