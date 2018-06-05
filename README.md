@@ -1,4 +1,4 @@
-# Web Project
+# Web Project (Spitch Application)
 
 ## Introduction
 
